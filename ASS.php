@@ -3,24 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Com 411 Exercises</title>
 </head>
 <body>
     <?php
-        $int = 5;
-        $i = 0;
-        $str = "moyo";
 
-        $double = 1.3;
-        $d = 0.0;
+        $int = 7;
+        $str = "Fayofunmi";
+        $i = 0; 
+        $Double = 7.5;
+        $D = 2.5;
 
-        echo $int + $i . "<br>";
-        echo $double + $d ."<br>";
-        echo "Your name is ". $str;
-
-
-
-
+        echo $int + $i ."\n";
+        echo $Double + $D ."\n";
+        echo "My name is ". $str;
 
     ?>
 </body>
